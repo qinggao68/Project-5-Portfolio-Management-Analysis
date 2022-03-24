@@ -16,7 +16,7 @@ I tried to make my code as much as automated, meaning that if you are interested
 
 NOTE: quantstats package provide a html file to access the tear sheet, so you would need to run on your computer to view the tear sheet. 
 
-# Project Scope(steps?) 
+# Project Scope 
 1. Data Exploration 
 2. Percentage Changes & Standard Deviation 
 3. Skewness & Kurtosis 
@@ -31,4 +31,4 @@ NOTE: quantstats package provide a html file to access the tear sheet, so you wo
 
 [QuantInsti Blog] https://blog.quantinsti.com/portfolio-optimization-maximum-return-risk-ratio-python/
 
-[quantstats documentation] https://github.com/ranaroussi/quantstats
+[Quantstats documentation] https://github.com/ranaroussi/quantstats
